@@ -1,0 +1,40 @@
+header .ifpr a{
+
+  position: fixed;
+  text-align: left;
+  display: block;
+  text-decoration: none;
+  color: #ccc;
+  font-family: 'Exo 2', sans-serif;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+header img{
+  display: inline-block;
+  background-color: #fff;
+  width: 4vh;
+  height: auto;
+  border-radius: 50%;
+}
+
+header a:hover{
+  opacity: .7;
+
+}
+
+header .logo img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background-color: white;
+  height: 40vh;
+  width: auto;
+  box-shadow: 0 0 2vh 0.5vh #3c40c6;
+  border-radius: 52%;
+}
+
+header .logo img:hover{
+  height: 42vh;
+  box-shadow: 0 0 2vh 0.5vh #ffa801;
+  transition-duration: .5s;
+}

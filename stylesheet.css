@@ -1,7 +1,9 @@
-iframe{
-  float:right;
-}
-.letra{float: left;
-display:inline;
-width: 500px;
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Pacifico|Do+Hyeon|Amatic+SC|PT+Sans');
+@import 'index/index.css';
+@import "header.css";
+@import "music.css";
+
+*{
+  text-align: center;
+  background: #000000;
 }

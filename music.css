@@ -1,0 +1,30 @@
+.pageTitle{
+  margin: 4vh;
+  padding: 3vh;
+  font-family: 'Amatic SC', sans-serif;
+  color: #d2dae2;
+  text-align: center;
+  font-size: 10vh;
+}
+
+.listen{
+  text-align: center;
+  display: block;
+}
+
+
+.video pre{
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+  color: #ccc;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.video iframe{
+  background-color:rgba(0, 0, 0, 1 );
+  margin-right: 4vh;
+  margin-left: -50vh;
+  text-align: left;
+  display: inline-block;
+}
